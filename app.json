@@ -1,0 +1,54 @@
+{
+    "expo": {
+        "name": "Mon Cashback",
+        "icon": "./assets/logo.png",
+        "version": "1.0.2",
+        "slug": "moncashback-customers",
+        "orientation": "portrait",
+        "notification": {
+            "icon": "./assets/notification-icon.png",
+            "color": "#ffffff"
+        },
+        "splash": {
+            "image": "./assets/xxxhdpi.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#FFFFFF"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "useNextNotificationsApi": true,
+            "googleServicesFile": "./google-services.json",
+            "package": "com.moncashback.customers",
+            "versionCode": 3,
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/logo.png",
+                "backgroundColor": "#F4F5F6"
+            }
+        },
+        "plugins": [
+            [
+              "expo-image-picker",
+              {
+                "photosPermission": "The app accesses your photos to let you share them with your friends."
+              }
+            ],
+            [
+                "expo-notifications",
+                {
+                  "icon": "./assets/notification-icon.png",
+                  "color": "#ffffff",
+                  "androidMode": "default"
+                }
+              ]
+          ]
+    },
+    "name": "moncashback-customers"
+}

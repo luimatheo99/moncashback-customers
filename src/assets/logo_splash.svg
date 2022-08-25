@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="240mm" height="77.1362mm" version="1.0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 9143.98 9143.98"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="3262.8" y1="2970.67" x2="1594.64" y2="4603.7">
+     <stop offset="0" stop-opacity="1" stop-color="#36398F"/>
+     <stop offset="1" stop-opacity="1" stop-color="#32B768"/>
+    </linearGradient>
+    <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="7901.58" y1="3261.79" x2="6355.34" y2="4308.8">
+     <stop offset="0" stop-opacity="1" stop-color="#36398F"/>
+     <stop offset="1" stop-opacity="1" stop-color="#32B768"/>
+    </linearGradient>
+    <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="4991.98" y1="3426.28" x2="4033.96" y2="3814.21">
+     <stop offset="0" stop-opacity="1" stop-color="#36398F"/>
+     <stop offset="1" stop-opacity="1" stop-color="#32B768"/>
+    </linearGradient>
+    <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="5485.9" y1="4373.51" x2="4527.88" y2="3985.58">
+     <stop offset="0" stop-opacity="1" stop-color="#36398F"/>
+     <stop offset="1" stop-opacity="1" stop-color="#32B768"/>
+    </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1617578888544">
+   <path fill="url(#id0)" fill-rule="nonzero" d="M2944.17 2824.5c-200.88,0 -382.8,72.02 -523.04,193.3 -140.23,-121.28 -322.15,-193.3 -523.03,-193.3 -443.44,0 -803.5,360.06 -803.5,803.5l0 841.4c0,155.4 125.08,280.47 280.47,280.47 155.39,0 280.47,-125.07 280.47,-280.47l0 -841.4c0,-136.44 109.91,-246.35 246.35,-246.35 136.45,0 246.36,109.91 246.36,246.35l0 841.4c0,155.4 125.07,280.47 280.46,280.47 155.4,0 280.47,-125.07 280.47,-280.47l0 -841.4c0,-136.44 109.91,-246.35 246.36,-246.35 136.44,0 246.35,109.91 246.35,246.35l0 841.4c0,155.4 125.08,280.47 280.47,280.47 155.39,0 280.47,-125.07 280.47,-280.47l0 -841.4c0,-443.44 -360.06,-803.5 -803.5,-803.5l-15.16 0z"/>
+   <path fill="url(#id1)" fill-rule="nonzero" d="M7776.56 4746.08c151.6,0 272.89,-121.28 272.89,-272.89l0 -727.69c0,-507.88 -413.12,-921 -920.99,-921 -507.88,0 -921,413.12 -921,921l0 727.69c0,151.61 121.29,272.89 272.89,272.89 151.6,0 272.89,-121.28 272.89,-272.89l0 -727.69c0,-208.46 170.55,-379.01 379.01,-379.01 208.45,0 379,170.55 379,379.01l0 727.69c0,151.61 121.29,272.89 272.89,272.89l-7.58 0z"/>
+   <path fill="url(#id2)" fill-rule="nonzero" d="M4584.15 4161.59c-92.97,-130.81 -134,-290.81 -115.57,-450.44 35.83,-309.58 210.76,-479.83 488.24,-571.73l1.72 16.22 -1.21 169.38c0,53.12 60.66,83.48 103.16,51.62l435.9 -326.9c4.9,-3.67 9.08,-7.88 12.59,-12.45 22.23,-27.52 18.37,-69.58 -11.58,-92.04l-435.9 -326.9c-42.5,-31.87 -103.16,-1.5 -103.16,51.62l0 155.78c-455.23,28.98 -840.12,380.56 -894.34,849.49 -27.37,236.53 33.5,473.64 171.28,667.59 67.21,94.48 179.17,86.92 261.51,28.4 70.41,-50.05 137.4,-139.19 87.36,-209.64z"/>
+   <path fill="url(#id3)" fill-rule="nonzero" d="M5490.54 3417.72c92.97,130.82 134,290.82 115.57,450.45 -35.83,309.57 -210.76,479.82 -488.24,571.73l-1.71 -16.23 1.2 -169.38c0,-53.12 -60.65,-83.48 -103.16,-51.61l-435.89 326.9c-4.9,3.67 -9.09,7.87 -12.6,12.44 -22.23,27.53 -18.36,69.58 11.58,92.04l435.9 326.91c42.5,31.86 103.16,1.5 103.16,-51.62l0 -155.78c455.23,-28.98 840.12,-380.56 894.35,-849.49 27.36,-236.54 -33.5,-473.65 -171.29,-667.59 -67.2,-94.48 -179.17,-86.92 -261.5,-28.4 -70.41,50.04 -137.4,139.19 -87.37,209.63z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-4895248885343312538-912",
+  "private_key_id": "c5bb08d8bbbca14fb9df702ea1bf7148fc4e1fc8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqD0VZHbwaq9VP\nnZYdd5O1kRBapp/Q2J5B/SvPu9fZ2E/XwnnXnoUTbZ28HEI0Je8sIfFDcS6PX2sF\nS6962yPCMV9fostGgMl1z1+0A7rJPsHLFQQob6uIctmIp4I6ODj59DXdxINcz6NS\ndas3JkbVPjCdX+HSNF78/oBurO4UKLyhD7t1hxwPy6qHMUoy6L48ycD0Z7I6Ffey\nqbADd/Y4ozGFlU75HLx5VPHTRrNYvHwLY44+OzImB5JGh/q5FN22xiUD8nt2CKHm\nPX2wKIPgpJR9EZSXzUOom1FVtO+3HJUxrOEnf5C7v08qWX48k9zkyJlBJS1TPK2m\nNRdoZVD1AgMBAAECggEAGTOKI1q0tX8hbVr9FADUcuO8eLKYnGp9iWnrRC2iHzZf\nHqpDRCDJt8dWyLmnVfMJLpEZH9V2AOkzAuXka2BuPCj06UdGuHv9XugMVrD2zTvv\nnBjRNOzXjrD2a7nnIpmSV/hIw0SL8wUSPvYRGWsitBczPR8oZ+465WMRxVT7MyFY\neJdj/RWq3e9n5L7fzy/+4ZVtZjnjV1Fz/JHiKKcTTU3NE0LW3h8uNtjWebugKMYU\n9sEOxyZ/Z2Ygs5nIl9Iu9XPQOZiTa7DolzmdnKtYZkR1cjX8KOFOlM/R5IM3EYDP\nSM8JhB71Y4giBV0PB8pVfykUZE+gKpEIqqoGHQKJQQKBgQDUmUq9mVke8C02MgBX\ngRN+eq2EkteTliHFQqx9N5Z8wQLX5qUQpfMPZz1yEJwqfrSv+WXAD8bbssS3u4eS\nS4UUX+JMmPuvvCtcAA7MrfEtZ5A3PzQBYBSyiZr0ONqQQRDHyNgkLzMwMMjXzD7O\n/46fkog73niQ5W5WxsMcrp59iwKBgQDMxtL/2dD+ty1F1M1Lu/XGQPE+mrp2wO2S\npdFezVMH5vA1UprIod6zqOQd2PacItP7Y6bHo4+UFKToNERozrN0yfQk0ntNguxX\n0eFiZe8V5zz3ANUu3ziUwWp3kYrHghGvojuVPhW4n0WbtCosXoNpxrDgngjbAB7O\nwx4ICUI7fwKBgCY14wQOwsDXxBiAhiU0Es/htrwkNFDXY/xzTlM3IXoMqrkpQDOs\nz/HNyXJt39OXcFxMg+gwLbqg99BaCTTXE/UkgqTnvhzIwjZH4GETRky112rGlk9E\n+JNaPhp0+XuB5kUyKP7f6OBZdE+s6wEDV5wAlzHDe4H3aox4LutBy0SfAoGAeosl\nK8z6f+O4qQhvDrpdmxW0CMXpfjV4NoEaqUPwQ1NVPmO/kv8jWZphYOc8tTU2bEM3\nRFNCEdjE0tysb5f61pIgk4SOG1WU//zuhsb/a7kkx5/s847LumGAyCsFxNy2nsdU\nJryvnPtbWZFYh5LLy5oGsXSBUiVhSlSDfUWlKBsCgYAzW/s04JFA2GgxZawxrJeZ\nRbX4YVlV/9RexKvDuzPQMFr9DZTxWPXD78PTVz1J9BsLpS2SwHehbVL3PVEJVIKL\noiuQZ6z8iZxpn5ECLTGz58gSI3g2m4ejqpRxrs8azy07skTJHzFmUxqwTT74uO7l\nRTd2mRox+9jiGpOQ7XuM5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mon-cashback-appcenter@pc-api-4895248885343312538-912.iam.gserviceaccount.com",
+  "client_id": "105740561038537720630",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mon-cashback-appcenter%40pc-api-4895248885343312538-912.iam.gserviceaccount.com"
+}
